@@ -1,39 +1,31 @@
 # ASUS Prime B360M-A 8700 RX560 0.8.2 12.4
+# ASUS Prime B360M-A 8700 P2000 5109 10.13.6
+![关于本机](%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
 
 #### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+更新OC版本为0.8.2开发版，支持Mojave & Catalina & Big Sur & Monterey & Ventura
+更新Clover版本为5109，支持High Sierra
+目前安装版本为12.4，机型为iMac18，3
 
 #### 软件架构
-软件架构说明
+
+- 主板：ASUS Prime B360M-A
+- CPU：i7-8700
+- 显卡：RX560/UHD630、P2000/UHD630
+- 显示器：4K
+- 硬盘：西数SN850+PM9A1
+- 板载网卡：RTL8168
+- 无线网卡：无
+![杂项](%E6%9D%82%E9%A1%B9.png)
+![系统](%E7%B3%BB%E7%BB%9F.png)
+![引导版本](%E5%BC%95%E5%AF%BC%E7%89%88%E6%9C%AC.png)
+![USB](USB.png)
+
+#### 工作
 
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+- 主板HDMI音频输出
+- 板载声卡输出
+- 所有USB接口
+- 开启HIDPI
+- 独显/核显加速
