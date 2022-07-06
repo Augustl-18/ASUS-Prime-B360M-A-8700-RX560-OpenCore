@@ -7,7 +7,7 @@
 更新Clover版本为5109，支持High Sierra
 目前安装版本为12.4，机型为iMac18，3
 
-#### 软件架构
+#### 配置
 
 - 主板：ASUS Prime B360M-A
 - CPU：i7-8700
