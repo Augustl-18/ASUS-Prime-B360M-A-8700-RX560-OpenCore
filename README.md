@@ -1,11 +1,11 @@
-# ASUS-Prime-B360M-A-8700-RX560-0.8.2-12.4
+# ASUS-Prime-B360M-A-8700-RX560-0.8.3-12.4
 # ASUS-Prime-B360M-A-8700-P2000-5109-10.13.6
 
 ![关于本机](%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
 
 #### 介绍
 
-- 更新OC版本为0.8.2开发版，支持Mojave & Catalina & Big Sur & Monterey & Ventura
+- 更新OC版本为0.8.3开发版，支持Mojave & Catalina & Big Sur & Monterey & Ventura
 - 更新Clover版本为5109，支持High Sierra
 - 目前安装版本为12.4，机型为iMac18，3
 
