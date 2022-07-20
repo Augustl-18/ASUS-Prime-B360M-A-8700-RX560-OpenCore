@@ -1,6 +1,6 @@
 # ASUS-Prime-B360M-A-8700-RX560-OpenCore
 
-![关于本机](%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
+![关于本机13](%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
 
 #### 介绍
 
